@@ -24,6 +24,12 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Access my photos</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Meme Me requires access to your phone&apos;s camera.</string>
+	<key>CFBundleSpokenName</key>
+	<string></string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
